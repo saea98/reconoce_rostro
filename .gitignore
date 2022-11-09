@@ -8,6 +8,7 @@ build
 build2
 dist
 *.egg-info/
+bin/
 docs/release/
 docs/docs/web/
 docs/docs/chm/
